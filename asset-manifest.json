@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/olagoroye/react-example/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/olagoroye/react-example/static/js/main.c29e8409.chunk.js",
+    "main.js.map": "/olagoroye/react-example/static/js/main.c29e8409.chunk.js.map",
+    "runtime-main.js": "/olagoroye/react-example/static/js/runtime-main.e0709cdf.js",
+    "runtime-main.js.map": "/olagoroye/react-example/static/js/runtime-main.e0709cdf.js.map",
+    "static/js/2.169e8fa1.chunk.js": "/olagoroye/react-example/static/js/2.169e8fa1.chunk.js",
+    "static/js/2.169e8fa1.chunk.js.map": "/olagoroye/react-example/static/js/2.169e8fa1.chunk.js.map",
+    "static/js/3.817f69a9.chunk.js": "/olagoroye/react-example/static/js/3.817f69a9.chunk.js",
+    "static/js/3.817f69a9.chunk.js.map": "/olagoroye/react-example/static/js/3.817f69a9.chunk.js.map",
+    "index.html": "/olagoroye/react-example/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/olagoroye/react-example/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.169e8fa1.chunk.js.LICENSE.txt": "/olagoroye/react-example/static/js/2.169e8fa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0709cdf.js",
+    "static/js/2.169e8fa1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c29e8409.chunk.js"
+  ]
+}
